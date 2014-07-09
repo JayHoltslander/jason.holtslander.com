@@ -1,5 +1,4 @@
 #Personal homepage
-=====================
 Written in HAML and LESS.
 
 ## Utilizes
